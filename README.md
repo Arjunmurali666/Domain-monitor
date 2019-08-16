@@ -78,8 +78,8 @@ with open('result.txt','w') as fh:
 
 ## The output of the this code will looks like the following.
 
-### https://www.computerworld.com The domain is online
-https://www.cyberciti.biz The domain is online
+### https://www.computerworld.com The domain is online\n
+https://www.cyberciti.biz The domain is online\n
 https://training.linuxfoundation.org The domain is online
 https://blog.feedspot.com The domain is online
 https://hackernoon.com The domain is online
