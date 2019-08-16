@@ -1,5 +1,5 @@
 # Domain-monitor
-## Python - This python code is written to monitor the domains and send the status report to the owner. Most of us depends upon the external monitoring tools to monitor the domains in our server. This python code can be set as a cron instead of these external monitoring tools. 
+## Python - This python code is written to monitor the domains and send the status report to the owner. Most of us depends upon the external monitoring tools to monitor the domains in our server. This python code can be set as a cron to check the status of the domains in a server. 
 
 ```python
 import requests
