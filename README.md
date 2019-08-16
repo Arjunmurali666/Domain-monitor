@@ -78,32 +78,32 @@ with open('result.txt','w') as fh:
 
 ## The output of the this code will looks like the following.
 
-### https://www.computerworld.com The domain is online\n
-https://www.cyberciti.biz The domain is online\n
-https://training.linuxfoundation.org The domain is online
-https://blog.feedspot.com The domain is online
-https://hackernoon.com The domain is online
-https://linuxconfig.org The domain is online
-https://www.ubuntupit.com/ The domain is online
-https://www.guru99.com/ The domain is online
-https://linuxacademy.com The domain is online
-https://www.linux.org The domain is online
-https://www.makeuseof.com The domain is online
-https://www.tecmint.com The domain is online
-https://www.quora.com The domain is online
-https://www.howtoforge.com The domain is online
-https://www.techworm.net The domain is online
-https://linuxsurvival.com The domain is online
-https://itsfoss.com  The domain is online
-https://www.tutorialspoint.com The domain is online
-https://phoenixts.com/ The domain is online
-https://www.2daygeek.com/ The domain is offline
-https://linuxjourney.com The domain is online
-https://www.techradar.com The domain is online
-https://sourceforge.net The domain is online
-https://freevideolectures.com The domain is online
-https://www.reallinuxuser.com/ The domain is online
-https://asdfg.com    Error while accessing the domain
+- https://www.computerworld.com The domain is online\n
+- https://www.cyberciti.biz The domain is online\n
+- https://training.linuxfoundation.org The domain is online
+- https://blog.feedspot.com The domain is online
+- https://hackernoon.com The domain is online
+- https://linuxconfig.org The domain is online
+- https://www.ubuntupit.com/ The domain is online
+- https://www.guru99.com/ The domain is online
+- https://linuxacademy.com The domain is online
+- https://www.linux.org The domain is online
+- https://www.makeuseof.com The domain is online
+- https://www.tecmint.com The domain is online
+- https://www.quora.com The domain is online
+- https://www.howtoforge.com The domain is online
+- https://www.techworm.net The domain is online
+- https://linuxsurvival.com The domain is online
+- https://itsfoss.com  The domain is online
+- https://www.tutorialspoint.com The domain is online
+- https://phoenixts.com/ The domain is online
+- https://www.2daygeek.com/ The domain is offline
+- https://linuxjourney.com The domain is online
+- https://www.techradar.com The domain is online
+- https://sourceforge.net The domain is online
+- https://freevideolectures.com The domain is online
+- https://www.reallinuxuser.com/ The domain is online
+- https://asdfg.com    Error while accessing the domain
 
 ## Now we can send this report as a text file to the owner's email account. I have used the modules smtplib and email for writing this code.
 
